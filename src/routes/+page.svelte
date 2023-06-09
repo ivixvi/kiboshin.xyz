@@ -3,26 +3,6 @@
 	<img src="kobochan.webp" width="300" height="300" alt="kobochan" loading="lazy" />
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-	<tr
-		><td align="center"
-			><a href="http://www.rays-counter.com/"
-				><img
-					src="http://www.rays-counter.com/d1266_f8_360/6480b9682d367/"
-					alt="アクセスカウンター"
-					border="0"
-				/></a
-			></td
-		></tr
-	><tr
-		><td align="center"
-			><img src="http://www.rays-counter.com/images/counter_01.gif" border="0" /><img
-				src="http://www.rays-counter.com/images/counter_02.gif"
-				border="0"
-			/><img src="http://www.rays-counter.com/images/counter_03.gif" border="0" /><img
-				src="http://www.rays-counter.com/images/counter_04.gif"
-				border="0"
-			/><img src="http://www.rays-counter.com/images/counter_05.gif" border="0" /></td
-		></tr
-	>
-</table>
+<nobr><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="https://www.free-counter.jp/"><img src="https://www.f-counter.net/ani1/62/1686281428/" alt="アクセスカウンター" border="0" style="margin:0px; padding:0px; border:0px; vertical-align:bottom"></a></td>
+<td><a href="https://www.free-counter.jp/"><img src="https://www.f-counter.net/ani2/62/1686281428/" alt="アクセスカウンター" border="0" style="margin:0px; padding:0px; border:0px; vertical-align:bottom"></a></td></tr></tbody></table></nobr>
+
